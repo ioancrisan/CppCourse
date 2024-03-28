@@ -1,0 +1,15 @@
+# ninja log v5
+9	500	7327956561523950	CMakeFiles/Vorlesung2.dir/Document.cpp.obj	1454bb2b108f1013
+477	577	7327949348330867	Vorlesung2.exe	216aba7c271d1d6f
+13	584	7327956562275987	CMakeFiles/Vorlesung2.dir/main.cpp.obj	5248ce440eaa3b66
+5	446	7327956560975776	CMakeFiles/Vorlesung2.dir/Invoice.cpp.obj	400529cb899d4dfa
+9	79	7315865338139835	CMakeFiles/Vorlesung2.dir/MyString.cpp.obj	be826be3446f87d7
+0	134	7327957231865967	build.ninja	e15bb037ea58c658
+11	315	7327938244436082	CMakeFiles/Vorlesung2.dir/HasContent.cpp.obj	33e01cdfcda13673
+2	423	7327956560755958	CMakeFiles/Vorlesung2.dir/Newspaper.cpp.obj	990f1ccf270b5d73
+11	348	7327957522076863	CMakeFiles/Vorlesung2.dir/Newspaper.cpp.obj	990f1ccf270b5d73
+15	364	7327957522226238	CMakeFiles/Vorlesung2.dir/HasTitle.cpp.obj	de83f6157cdd96d0
+19	407	7327957522535523	CMakeFiles/Vorlesung2.dir/Invoice.cpp.obj	400529cb899d4dfa
+2	453	7327957523131826	CMakeFiles/Vorlesung2.dir/Document.cpp.obj	1454bb2b108f1013
+7	542	7327957524019178	CMakeFiles/Vorlesung2.dir/main.cpp.obj	5248ce440eaa3b66
+542	640	7327957524985624	Vorlesung2.exe	f3003a95cff8a4e
