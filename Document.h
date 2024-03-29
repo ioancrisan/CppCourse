@@ -24,8 +24,8 @@ public:
 
     virtual string getContent() const;
     virtual string getTitle() const;
-    void setTitle(string title);
-    void readTitle();
+    void setTitle(const string &title);
+
     void copyTitleTo(string &newTitle) const;
 };
 

@@ -13,12 +13,8 @@ std::string Document::getTitle() const {
     return this->title;
 }
 
-void Document::setTitle(std::string title) {
+void Document::setTitle(const string &title) {
     this->title = title;
-}
-
-void Document::readTitle() {
-    std::cin >> title;
 }
 
 void Document::copyTitleTo(std::string &newTitle) const {
