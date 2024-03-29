@@ -31,5 +31,5 @@ const Invoice *Invoice::setNumber(int number) {
 }
 
 string Invoice::getTitle() const {
-    return Document::getTitle() + std::to_string(number);
+    return Document::getTitle() + " " + std::to_string(number);
 }
