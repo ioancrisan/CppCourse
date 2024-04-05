@@ -1,0 +1,12 @@
+//
+// Created by ICR on 05.04.2024.
+//
+
+#ifndef VORLESUNG2_WORKWITHABSTRACTIONS_H
+#define VORLESUNG2_WORKWITHABSTRACTIONS_H
+
+
+void workWithAbstractions();
+
+
+#endif //VORLESUNG2_WORKWITHABSTRACTIONS_H

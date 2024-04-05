@@ -26,12 +26,16 @@ add_library(WorkWithDocs STATIC
         WorkWithDocs.h
         WorkWithInheritanceAndVirtualMethods.cpp
         WorkWithInheritanceAndVirtualMethods.h
+        WorkWithAbstractions.cpp
+        WorkWithAbstractions.h
 )
+
+add_library(mymath mymath/ArithmeticException.cpp mymath/ArithmeticException.h)
 
 add_executable(Vorlesung2 main.cpp)
 
 target_link_libraries(WorkWithDocs Documents UI)
 
-target_link_libraries(Vorlesung2 Documents WorkWithDocs)
+target_link_libraries(Vorlesung2 Documents WorkWithDocs mymath)
 
 add_subdirectory(Google_tests)
